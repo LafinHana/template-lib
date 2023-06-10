@@ -1,0 +1,18 @@
+##############################
+## Folders                  ##
+##############################
+*.git*
+
+*.swp
+
+*.pyc
+
+*.idea*
+
+*__pycache__*
+
+*RAW_DATA*
+flgo.RAW_DATA
+my_task
+
+testme.py

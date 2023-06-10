@@ -1,0 +1,911 @@
+Communication Round 1
+trianing average loss: tensor(4.8650)
+valid
+valid mae: 3.6135113050145016, valid rmse:4.679006890520883, valid acc:0.07289611828006318
+Communication Round 2
+trianing average loss: tensor(4.1523)
+valid
+valid mae: 4.0871100032985375, valid rmse:7.119945177773666, valid acc:0.07162471245912168
+Communication Round 3
+trianing average loss: tensor(8.4243)
+valid
+valid mae: 3.5479945109316025, valid rmse:4.550850584281354, valid acc:0.07278470642977448
+Communication Round 4
+trianing average loss: tensor(3.9145)
+valid
+valid mae: 3.5202717428398578, valid rmse:4.500579694203533, valid acc:0.07220798626357422
+Communication Round 5
+trianing average loss: tensor(3.8079)
+valid
+valid mae: 3.4971327152076035, valid rmse:4.425082914253054, valid acc:0.07129703054650789
+Communication Round 6
+trianing average loss: tensor(3.7101)
+valid
+valid mae: 3.4816873271733457, valid rmse:4.346338117210748, valid acc:0.07174267794766265
+Communication Round 7
+trianing average loss: tensor(3.9003)
+valid
+valid mae: 3.4657556587637117, valid rmse:4.3169779156796295, valid acc:0.07123149416398514
+Communication Round 8
+trianing average loss: tensor(3.3986)
+valid
+valid mae: 3.4717751878533516, valid rmse:4.381052937451266, valid acc:0.0710217777399123
+Communication Round 9
+trianing average loss: tensor(3.5716)
+valid
+valid mae: 3.446843423777029, valid rmse:4.304486430140301, valid acc:0.0709693486338941
+Communication Round 10
+trianing average loss: tensor(3.5214)
+valid
+valid mae: 3.4299422545881355, valid rmse:4.26244694086934, valid acc:0.07100211682515549
+Communication Round 11
+trianing average loss: tensor(5.8909)
+valid
+valid mae: 3.4286069527716387, valid rmse:4.192486870935907, valid acc:0.07250945362317891
+Communication Round 12
+trianing average loss: tensor(3.4896)
+valid
+valid mae: 3.4143152701692534, valid rmse:4.168589554614096, valid acc:0.07247013179366525
+Communication Round 13
+trianing average loss: tensor(3.6344)
+valid
+valid mae: 3.4010981544190386, valid rmse:4.149710113335881, valid acc:0.07222109354007877
+Communication Round 14
+trianing average loss: tensor(3.5179)
+valid
+valid mae: 3.386210132264021, valid rmse:4.127267205679279, valid acc:0.07286335008880179
+Communication Round 15
+trianing average loss: tensor(3.6844)
+valid
+valid mae: 3.368383757594261, valid rmse:4.102821633370409, valid acc:0.07301408376860415
+Communication Round 16
+trianing average loss: tensor(3.5727)
+valid
+valid mae: 3.354447510008904, valid rmse:4.079737820541302, valid acc:0.07300753013035187
+Communication Round 17
+trianing average loss: tensor(3.4949)
+valid
+valid mae: 3.3360599464853804, valid rmse:4.054346195514283, valid acc:0.07286990372705407
+Communication Round 18
+trianing average loss: tensor(3.4483)
+valid
+valid mae: 3.322086607402162, valid rmse:4.030123442360709, valid acc:0.07266674094123353
+Communication Round 19
+trianing average loss: tensor(3.2820)
+valid
+valid mae: 3.3009535234308736, valid rmse:4.003401101083724, valid acc:0.07258809728220622
+Communication Round 20
+trianing average loss: tensor(3.3943)
+valid
+valid mae: 3.288033914899396, valid rmse:3.9851078472720336, valid acc:0.07261431183521531
+Communication Round 21
+trianing average loss: tensor(3.2867)
+valid
+valid mae: 3.2610251628160745, valid rmse:3.9481661540192903, valid acc:0.07236527358162884
+Communication Round 22
+trianing average loss: tensor(3.2814)
+valid
+valid mae: 3.242851121970371, valid rmse:3.9230711815426575, valid acc:0.07241770268764705
+Communication Round 23
+trianing average loss: tensor(3.4652)
+valid
+valid mae: 3.2301231669719694, valid rmse:3.900813272611486, valid acc:0.07285679645054952
+Communication Round 24
+trianing average loss: tensor(3.9817)
+valid
+valid mae: 3.2065064020273266, valid rmse:3.8677314163182444, valid acc:0.07319103200141558
+Communication Round 25
+trianing average loss: tensor(3.1650)
+valid
+valid mae: 3.1993603936560855, valid rmse:3.8598561867526353, valid acc:0.07290922555656773
+Communication Round 26
+trianing average loss: tensor(3.2149)
+valid
+valid mae: 3.1904065339438246, valid rmse:3.8495051450862627, valid acc:0.07349905299927255
+Communication Round 27
+trianing average loss: tensor(3.1148)
+valid
+valid mae: 3.1665889793478366, valid rmse:3.822126426656303, valid acc:0.07359735757305669
+
+Communication Round 1
+trianing average loss: tensor(3.7338)
+valid
+valid mae: 3.284377076428957, valid rmse:3.901050437595294, valid acc:0.06464508772044801
+Communication Round 2
+trianing average loss: tensor(3.7344)
+valid
+valid mae: 3.2253053396107414, valid rmse:3.7822270518094543, valid acc:0.06178770144245578
+Communication Round 3
+trianing average loss: tensor(3.4215)
+valid
+valid mae: 3.199797373335118, valid rmse:3.730303901535613, valid acc:0.06100126485218269
+Communication Round 4
+trianing average loss: tensor(3.2709)
+valid
+valid mae: 3.184952657118162, valid rmse:3.698612561015256, valid acc:0.05991991454055719
+Communication Round 5
+trianing average loss: tensor(3.1332)
+valid
+valid mae: 3.171177258102286, valid rmse:3.6696280437992757, valid acc:0.05916624614154548
+Communication Round 6
+trianing average loss: tensor(3.2403)
+valid
+valid mae: 3.1579340709809953, valid rmse:3.6430440684307785, valid acc:0.058989297908734036
+Communication Round 7
+trianing average loss: tensor(3.2341)
+valid
+valid mae: 3.1503527072568676, valid rmse:3.6285543636808946, valid acc:0.05917279977979775
+Communication Round 8
+trianing average loss: tensor(3.1851)
+valid
+valid mae: 3.1459982266529356, valid rmse:3.616241162163182, valid acc:0.057619587514008405
+Communication Round 9
+trianing average loss: tensor(3.1552)
+valid
+valid mae: 3.1413653891142066, valid rmse:3.608547995572519, valid acc:0.05702976007130359
+Communication Round 10
+trianing average loss: tensor(3.1104)
+valid
+valid mae: 3.1379063319402536, valid rmse:3.601397473654427, valid acc:0.056918348221014894
+Communication Round 11
+trianing average loss: tensor(3.0695)
+valid
+valid mae: 3.129829210348637, valid rmse:3.58376466941013, valid acc:0.05704942098606041
+Communication Round 12
+trianing average loss: tensor(3.0924)
+valid
+valid mae: 3.125490583829608, valid rmse:3.575229453177513, valid acc:0.05695111641227628
+Communication Round 13
+trianing average loss: tensor(3.0633)
+valid
+valid mae: 3.1179189339675095, valid rmse:3.559942520897435, valid acc:0.05599428522744401
+Communication Round 14
+trianing average loss: tensor(3.0451)
+valid
+valid mae: 3.111263197549889, valid rmse:3.546948610831983, valid acc:0.056210555289769114
+Communication Round 15
+trianing average loss: tensor(2.9884)
+valid
+valid mae: 3.1046726861528633, valid rmse:3.53480905888656, valid acc:0.05596807067443491
+Communication Round 16
+trianing average loss: tensor(3.0001)
+valid
+valid mae: 3.0987825503851076, valid rmse:3.5225927914377984, valid acc:0.055738693335605265
+Communication Round 17
+trianing average loss: tensor(3.0286)
+valid
+valid mae: 3.0934061026134856, valid rmse:3.512803707459726, valid acc:0.05535858231697327
+Communication Round 18
+trianing average loss: tensor(2.9681)
+valid
+valid mae: 3.086275041006756, valid rmse:3.499371974359062, valid acc:0.054958810383584446
+Communication Round 19
+trianing average loss: tensor(3.1938)
+valid
+valid mae: 3.079814822950024, valid rmse:3.486314901403191, valid acc:0.055102990425134515
+Communication Round 20
+trianing average loss: tensor(2.9781)
+valid
+valid mae: 3.0757931244286825, valid rmse:3.480282606581006, valid acc:0.05524717046668458
+Communication Round 21
+trianing average loss: tensor(3.0476)
+valid
+valid mae: 3.0688405485105767, valid rmse:3.468786471618998, valid acc:0.05519474136066638
+Communication Round 22
+trianing average loss: tensor(2.8839)
+valid
+valid mae: 3.0637103214928803, valid rmse:3.4614842869892586, valid acc:0.055594513294055195
+Communication Round 23
+trianing average loss: tensor(3.0781)
+valid
+valid mae: 3.05985366431201, valid rmse:3.4553473118859213, valid acc:0.05571247878259616
+Communication Round 24
+trianing average loss: tensor(2.9124)
+valid
+valid mae: 3.0555112928989425, valid rmse:3.4482695519288757, valid acc:0.05561417420881202
+Communication Round 25
+trianing average loss: tensor(2.9922)
+valid
+valid mae: 3.0509487614915036, valid rmse:3.44153627462299, valid acc:0.05556174510279382
+Communication Round 26
+trianing average loss: tensor(2.8820)
+valid
+valid mae: 3.0457097808036124, valid rmse:3.4349519597344185, valid acc:0.05612535799248953
+Communication Round 27
+trianing average loss: tensor(2.9908)
+valid
+valid mae: 3.0398557604138503, valid rmse:3.427251217997238, valid acc:0.05603360705695767
+Communication Round 28
+trianing average loss: tensor(2.9761)
+valid
+valid mae: 3.033218721025308, valid rmse:3.417988165968322, valid acc:0.05595496339793036
+Communication Round 29
+trianing average loss: tensor(2.9285)
+valid
+valid mae: 3.027016564046078, valid rmse:3.410132802135848, valid acc:0.05609914343948043
+Communication Round 30
+trianing average loss: tensor(2.9116)
+valid
+valid mae: 3.0221796497439373, valid rmse:3.403334974406574, valid acc:0.05594185612142581
+Communication Round 31
+trianing average loss: tensor(2.8497)
+valid
+valid mae: 3.014881667763508, valid rmse:3.3942545372582553, valid acc:0.056426825352094215
+Communication Round 32
+trianing average loss: tensor(2.9683)
+valid
+valid mae: 3.0055604527634845, valid rmse:3.384108504760853, valid acc:0.056872472753248964
+Communication Round 33
+trianing average loss: tensor(2.9055)
+valid
+valid mae: 3.002000749576367, valid rmse:3.3796879793309067, valid acc:0.05668241724393297
+Communication Round 34
+trianing average loss: tensor(2.8281)
+valid
+valid mae: 2.9961401595544404, valid rmse:3.373158856778483, valid acc:0.05714117192159227
+Communication Round 35
+trianing average loss: tensor(2.7732)
+valid
+valid mae: 2.989041137356484, valid rmse:3.367353252266073, valid acc:0.05784896485283805
+Communication Round 36
+trianing average loss: tensor(3.1277)
+valid
+valid mae: 2.980183124062311, valid rmse:3.357027312298725, valid acc:0.058261844062731424
+Communication Round 37
+trianing average loss: tensor(2.7427)
+valid
+valid mae: 2.9727200751233704, valid rmse:3.350148973725871, valid acc:0.05849122140156108
+Communication Round 38
+trianing average loss: tensor(2.8440)
+valid
+valid mae: 2.963483687569513, valid rmse:3.341771893760355, valid acc:0.05930387254484327
+Communication Round 39
+trianing average loss: tensor(2.7678)
+valid
+valid mae: 2.9534773307471505, valid rmse:3.3320676760973647, valid acc:0.060018219114341326
+Communication Round 40
+trianing average loss: tensor(2.7379)
+valid
+valid mae: 2.946481955259707, valid rmse:3.325581507022791, valid acc:0.060267257367927804
+Communication Round 41
+trianing average loss: tensor(2.7833)
+valid
+valid mae: 2.9397620486958047, valid rmse:3.3191312738481504, valid acc:0.060870192087137176
+Communication Round 42
+trianing average loss: tensor(2.8546)
+valid
+valid mae: 2.928880886839348, valid rmse:3.3088319385500857, valid acc:0.06165007503915799
+Communication Round 43
+trianing average loss: tensor(2.7651)
+valid
+valid mae: 2.9238857797386983, valid rmse:3.3038772543642922, valid acc:0.06160419957139206
+Communication Round 44
+trianing average loss: tensor(2.8759)
+valid
+valid mae: 2.915349894998685, valid rmse:3.2969599328893753, valid acc:0.06231199250263784
+Communication Round 45
+trianing average loss: tensor(2.9538)
+valid
+valid mae: 2.905370657210726, valid rmse:3.287409974485081, valid acc:0.06323605549620873
+Communication Round 46
+trianing average loss: tensor(3.0472)
+valid
+valid mae: 2.885170017551557, valid rmse:3.271281626837444, valid acc:0.06520214697189144
+Communication Round 47
+trianing average loss: tensor(2.7167)
+valid
+valid mae: 2.8775239636044874, valid rmse:3.2622535586159263, valid acc:0.06507107420684594
+Communication Round 48
+trianing average loss: tensor(2.7972)
+valid
+valid mae: 2.866493729374873, valid rmse:3.252570023200188, valid acc:0.06539875611945972
+Communication Round 49
+trianing average loss: tensor(2.6653)
+valid
+valid mae: 2.858568708408156, valid rmse:3.2439634011567424, valid acc:0.06600824447692136
+Communication Round 50
+trianing average loss: tensor(2.6440)
+valid
+valid mae: 2.851775247452876, valid rmse:3.2358408443240307, valid acc:0.06589683262663268
+Communication Round 51
+trianing average loss: tensor(2.5682)
+valid
+valid mae: 2.843089011655984, valid rmse:3.2282498347144384, valid acc:0.06668982285515804
+Communication Round 52
+trianing average loss: tensor(2.7598)
+valid
+valid mae: 2.832174724410316, valid rmse:3.2203961366837675, valid acc:0.06806608688813595
+Communication Round 53
+trianing average loss: tensor(2.6017)
+valid
+valid mae: 2.8266866579491157, valid rmse:3.214342621554547, valid acc:0.06809230144114505
+Communication Round 54
+trianing average loss: tensor(2.5594)
+valid
+valid mae: 2.819232368542669, valid rmse:3.2068233207877133, valid acc:0.06861003886307483
+Communication Round 55
+trianing average loss: tensor(2.6297)
+valid
+valid mae: 2.8121176070954754, valid rmse:3.2011882321135956, valid acc:0.06914743719976145
+Communication Round 56
+trianing average loss: tensor(2.7003)
+valid
+valid mae: 2.8018185428558655, valid rmse:3.1923485488294983, valid acc:0.06958653096266393
+Communication Round 57
+trianing average loss: tensor(2.5141)
+valid
+valid mae: 2.7939607096844488, valid rmse:3.1865710851345903, valid acc:0.07085793678360541
+Communication Round 58
+trianing average loss: tensor(2.6427)
+valid
+valid mae: 2.7859080022297067, valid rmse:3.1795553700630963, valid acc:0.07146742514106706
+Communication Round 59
+trianing average loss: tensor(2.6274)
+valid
+valid mae: 2.775378003706343, valid rmse:3.1713982202027537, valid acc:0.07293544010957684
+Communication Round 60
+trianing average loss: tensor(2.7247)
+valid
+valid mae: 2.766124391598299, valid rmse:3.1638835409423693, valid acc:0.07389882493266137
+Communication Round 61
+trianing average loss: tensor(2.5998)
+valid
+valid mae: 2.757915057179996, valid rmse:3.1562966207615064, valid acc:0.07430515050430246
+Communication Round 62
+trianing average loss: tensor(2.6409)
+valid
+valid mae: 2.747992430479261, valid rmse:3.1482226830179982, valid acc:0.07480322701147542
+Communication Round 63
+trianing average loss: tensor(2.5564)
+valid
+valid mae: 2.7402924205768313, valid rmse:3.141676504480146, valid acc:0.07550446630446893
+Communication Round 64
+trianing average loss: tensor(2.6424)
+valid
+valid mae: 2.7291594019357985, valid rmse:3.133416842559207, valid acc:0.07747711141840392
+Communication Round 65
+trianing average loss: tensor(2.6103)
+valid
+valid mae: 2.7214538340455356, valid rmse:3.1263849419127467, valid acc:0.07799484884033371
+Communication Round 66
+trianing average loss: tensor(2.4755)
+valid
+valid mae: 2.7131975218301534, valid rmse:3.118980102095522, valid acc:0.07840772805022708
+Communication Round 67
+trianing average loss: tensor(2.4888)
+valid
+valid mae: 2.704837732107934, valid rmse:3.1112859834949003, valid acc:0.07925970102302293
+Communication Round 68
+trianing average loss: tensor(2.4817)
+valid
+valid mae: 2.6941488933023856, valid rmse:3.1035649305826603, valid acc:0.08063596505600083
+Communication Round 69
+trianing average loss: tensor(2.6681)
+valid
+valid mae: 2.6844533677689064, valid rmse:3.0955516835598833, valid acc:0.08177629811189682
+Communication Round 70
+trianing average loss: tensor(2.7612)
+valid
+valid mae: 2.6827289200961517, valid rmse:3.0911738571701, valid acc:0.08102262971288511
+Communication Round 71
+trianing average loss: tensor(2.5809)
+valid
+valid mae: 2.6719676102288257, valid rmse:3.083140135661336, valid acc:0.08237267919285392
+Communication Round 72
+trianing average loss: tensor(2.5603)
+valid
+valid mae: 2.667590463419382, valid rmse:3.078263258355888, valid acc:0.08270691474371998
+Communication Round 73
+trianing average loss: tensor(2.7497)
+valid
+valid mae: 2.6567065910901713, valid rmse:3.0700515643663815, valid acc:0.08433221703028436
+Communication Round 74
+trianing average loss: tensor(2.4943)
+valid
+valid mae: 2.643376508927448, valid rmse:3.0597370360959193, valid acc:0.08637039852674212
+Communication Round 75
+trianing average loss: tensor(2.5803)
+valid
+valid mae: 2.6352154496168176, valid rmse:3.05303312333968, valid acc:0.08711751328750156
+Communication Round 76
+trianing average loss: tensor(2.5062)
+valid
+valid mae: 2.6325134017910368, valid rmse:3.048419790660504, valid acc:0.08694711869294239
+Communication Round 77
+trianing average loss: tensor(2.5808)
+valid
+valid mae: 2.6252102643347017, valid rmse:3.041114124156708, valid acc:0.08724858605254707
+Communication Round 78
+trianing average loss: tensor(2.3982)
+valid
+valid mae: 2.61794139933114, valid rmse:3.035530433462953, valid acc:0.08762214343292679
+Communication Round 79
+trianing average loss: tensor(2.5564)
+valid
+valid mae: 2.612224816440507, valid rmse:3.030791271829307, valid acc:0.08860518917076815
+Communication Round 80
+trianing average loss: tensor(2.5179)
+valid
+valid mae: 2.6066004455103755, valid rmse:3.0255823944706663, valid acc:0.08905739021017518
+Communication Round 81
+trianing average loss: tensor(2.3750)
+valid
+valid mae: 2.5991405045662357, valid rmse:3.0196728243688433, valid acc:0.08976518314142096
+Communication Round 82
+trianing average loss: tensor(2.5059)
+valid
+valid mae: 2.5943739199063014, valid rmse:3.014305913110341, valid acc:0.09052540517868495
+Communication Round 83
+trianing average loss: tensor(2.3992)
+valid
+valid mae: 2.5879999776411933, valid rmse:3.0085944028780984, valid acc:0.09087930164430784
+Communication Round 84
+trianing average loss: tensor(2.4904)
+valid
+valid mae: 2.5801689472531644, valid rmse:3.001800232637287, valid acc:0.09174438189360824
+Communication Round 85
+trianing average loss: tensor(2.3796)
+valid
+valid mae: 2.5723256396789864, valid rmse:2.9955264431530315, valid acc:0.09247183573961085
+Communication Round 86
+trianing average loss: tensor(2.3931)
+valid
+valid mae: 2.5678189073449253, valid rmse:2.9904570405428, valid acc:0.09295025133202697
+Communication Round 87
+trianing average loss: tensor(2.3388)
+valid
+valid mae: 2.562889000727609, valid rmse:2.9861984155460606, valid acc:0.09363838334851593
+Communication Round 88
+trianing average loss: tensor(2.4511)
+valid
+valid mae: 2.554322997717578, valid rmse:2.9807686716398787, valid acc:0.0954275265913872
+Communication Round 89
+trianing average loss: tensor(2.3794)
+valid
+valid mae: 2.544347256596031, valid rmse:2.9734346378085337, valid acc:0.09703972160144704
+Communication Round 90
+trianing average loss: tensor(2.5707)
+valid
+valid mae: 2.5362387152515713, valid rmse:2.9677800984871925, valid acc:0.09827835923112715
+Communication Round 91
+trianing average loss: tensor(2.2812)
+valid
+valid mae: 2.534955231336173, valid rmse:2.964007274650819, valid acc:0.09692830975115836
+Communication Round 92
+trianing average loss: tensor(2.3621)
+valid
+valid mae: 2.5266730790068355, valid rmse:2.958756279357219, valid acc:0.09814073282782937
+Communication Round 93
+trianing average loss: tensor(2.5282)
+valid
+valid mae: 2.5184029611431358, valid rmse:2.9527601726766757, valid acc:0.099130332203923
+Communication Round 94
+trianing average loss: tensor(2.2987)
+valid
+valid mae: 2.5081788806069443, valid rmse:2.9454885205433046, valid acc:0.10078184904349649
+Communication Round 95
+trianing average loss: tensor(2.2655)
+valid
+valid mae: 2.50512727437068, valid rmse:2.9413158713254006, valid acc:0.10108987004135346
+Communication Round 96
+trianing average loss: tensor(2.2797)
+valid
+valid mae: 2.4997983149032397, valid rmse:2.9359983616695415, valid acc:0.10137823012445359
+Communication Round 97
+trianing average loss: tensor(2.3161)
+valid
+valid mae: 2.495492502617687, valid rmse:2.9314083940079643, valid acc:0.10173212659007648
+Communication Round 98
+trianing average loss: tensor(2.4220)
+valid
+valid mae: 2.4927016263197217, valid rmse:2.927705193400981, valid acc:0.10122749644465125
+Communication Round 99
+trianing average loss: tensor(2.3627)
+valid
+valid mae: 2.4877145503671305, valid rmse:2.9227859013800077, valid acc:0.10157483927202186
+Communication Round 100
+trianing average loss: tensor(2.1670)
+valid
+valid mae: 2.4796450197176187, valid rmse:2.9174498225160095, valid acc:0.10340985798265907
+Communication Round 101
+trianing average loss: tensor(2.2588)
+valid
+valid mae: 2.468899805040306, valid rmse:2.910797988504432, valid acc:0.10516623303426897
+Communication Round 102
+trianing average loss: tensor(2.2838)
+valid
+valid mae: 2.4630608979308426, valid rmse:2.9051834762642956, valid acc:0.10560532679717145
+Communication Round 103
+trianing average loss: tensor(2.1877)
+valid
+valid mae: 2.4627277610911347, valid rmse:2.9015475678287452, valid acc:0.10433392097622995
+Communication Round 104
+trianing average loss: tensor(2.3709)
+valid
+valid mae: 2.4557785784747197, valid rmse:2.8963422498325957, valid acc:0.10546114675562138
+Communication Round 105
+trianing average loss: tensor(2.3895)
+valid
+valid mae: 2.451911918647807, valid rmse:2.8927494169834485, valid acc:0.10630001245191267
+Communication Round 106
+trianing average loss: tensor(2.2454)
+valid
+valid mae: 2.446895622621974, valid rmse:2.8885757150516556, valid acc:0.10636554883443544
+Communication Round 107
+trianing average loss: tensor(2.1785)
+valid
+valid mae: 2.442980313430026, valid rmse:2.8843003945342875, valid acc:0.1066735698322924
+Communication Round 108
+trianing average loss: tensor(2.3509)
+valid
+valid mae: 2.4352897059097693, valid rmse:2.8789605784799046, valid acc:0.10765661557013376
+Communication Round 109
+trianing average loss: tensor(2.3424)
+valid
+valid mae: 2.426374640772552, valid rmse:2.8730216765789556, valid acc:0.10967513615183469
+Communication Round 110
+trianing average loss: tensor(2.2172)
+valid
+valid mae: 2.4246120171337315, valid rmse:2.8697561147182586, valid acc:0.1090263259648594
+Communication Round 111
+trianing average loss: tensor(2.3345)
+valid
+valid mae: 2.422680809813806, valid rmse:2.8666464194120453, valid acc:0.10857412492545236
+Communication Round 112
+trianing average loss: tensor(2.3310)
+valid
+valid mae: 2.416385275534447, valid rmse:2.861646407325596, valid acc:0.10932779332446407
+Communication Round 113
+trianing average loss: tensor(2.5134)
+valid
+valid mae: 2.4074192488883805, valid rmse:2.855431877870556, valid acc:0.11113004384383991
+Communication Round 114
+trianing average loss: tensor(2.3413)
+valid
+valid mae: 2.400502701652683, valid rmse:2.8501467490181955, valid acc:0.11219828687896086
+Communication Round 115
+trianing average loss: tensor(2.5337)
+valid
+valid mae: 2.3963828321976774, valid rmse:2.845613467035355, valid acc:0.11265704155662015
+Communication Round 116
+trianing average loss: tensor(2.1479)
+valid
+valid mae: 2.3956042349521356, valid rmse:2.8424509092570465, valid acc:0.11179196130731976
+Communication Round 117
+trianing average loss: tensor(2.2609)
+valid
+valid mae: 2.388520550481187, valid rmse:2.837695684776097, valid acc:0.1137514991447502
+Communication Round 118
+trianing average loss: tensor(2.2489)
+valid
+valid mae: 2.382073961339624, valid rmse:2.8331807055447182, valid acc:0.11472143760608702
+Communication Round 119
+trianing average loss: tensor(2.2819)
+valid
+valid mae: 2.37615640724276, valid rmse:2.8288005055596264, valid acc:0.11590109249149666
+Communication Round 120
+trianing average loss: tensor(2.2873)
+valid
+valid mae: 2.3698462159366183, valid rmse:2.824273765375407, valid acc:0.11669408272002202
+Communication Round 121
+trianing average loss: tensor(2.1337)
+valid
+valid mae: 2.372594447726283, valid rmse:2.82248649472321, valid acc:0.11424957565192316
+Communication Round 122
+trianing average loss: tensor(2.2364)
+valid
+valid mae: 2.366820231783053, valid rmse:2.8178535862584493, valid acc:0.1156192860466488
+Communication Round 123
+trianing average loss: tensor(2.2526)
+valid
+valid mae: 2.3612125711566816, valid rmse:2.8139646921518127, valid acc:0.11722492741845636
+Communication Round 124
+trianing average loss: tensor(2.2485)
+valid
+valid mae: 2.355861878625973, valid rmse:2.8096908622441323, valid acc:0.11850288687765012
+Communication Round 125
+trianing average loss: tensor(2.0795)
+valid
+valid mae: 2.3481383595203122, valid rmse:2.8046054885099183, valid acc:0.11960389810403245
+Communication Round 126
+trianing average loss: tensor(2.2076)
+valid
+valid mae: 2.34475026660208, valid rmse:2.8008402953666707, valid acc:0.11930898438268005
+Communication Round 127
+trianing average loss: tensor(2.2770)
+valid
+valid mae: 2.33499340446569, valid rmse:2.7954458748652793, valid acc:0.12210083427814951
+Communication Round 128
+trianing average loss: tensor(2.3105)
+valid
+valid mae: 2.3363051926351925, valid rmse:2.793215978800246, valid acc:0.12052140745935105
+Communication Round 129
+trianing average loss: tensor(2.0978)
+valid
+valid mae: 2.331852590090181, valid rmse:2.789719063684712, valid acc:0.12139304134690374
+Communication Round 130
+trianing average loss: tensor(2.1749)
+valid
+valid mae: 2.324763416247388, valid rmse:2.784970691180232, valid acc:0.12312320184550453
+Communication Round 131
+trianing average loss: tensor(2.1997)
+valid
+valid mae: 2.3233061599437463, valid rmse:2.7822120129635506, valid acc:0.12194354696009489
+Communication Round 132
+trianing average loss: tensor(2.1446)
+valid
+valid mae: 2.3226598427768277, valid rmse:2.78015675225136, valid acc:0.12109812762555132
+Communication Round 133
+trianing average loss: tensor(2.1435)
+valid
+valid mae: 2.3144402349911575, valid rmse:2.776118400957105, valid acc:0.1231297554837568
+Communication Round 134
+trianing average loss: tensor(1.9786)
+valid
+valid mae: 2.309505586913512, valid rmse:2.7716848782592427, valid acc:0.12422421307188686
+Communication Round 135
+trianing average loss: tensor(2.1356)
+valid
+valid mae: 2.306483748900166, valid rmse:2.768701187927313, valid acc:0.12448635860197789
+Communication Round 136
+trianing average loss: tensor(1.9801)
+valid
+valid mae: 2.297086339063506, valid rmse:2.7640871602796446, valid acc:0.12719301120016777
+Communication Round 137
+trianing average loss: tensor(2.0783)
+valid
+valid mae: 2.295242705207302, valid rmse:2.76126994491955, valid acc:0.12700295569085177
+Communication Round 138
+trianing average loss: tensor(2.0887)
+valid
+valid mae: 2.2937856218327584, valid rmse:2.758834879383522, valid acc:0.12668182741649026
+Communication Round 139
+trianing average loss: tensor(1.8825)
+valid
+valid mae: 2.290461756948195, valid rmse:2.756064925343277, valid acc:0.12752069311278155
+Communication Round 140
+trianing average loss: tensor(2.1541)
+valid
+valid mae: 2.285959528678143, valid rmse:2.7521814986087803, valid acc:0.12794012596092721
+Communication Round 141
+trianing average loss: tensor(2.1992)
+valid
+valid mae: 2.281535877552454, valid rmse:2.7488041503614884, valid acc:0.12823503968227962
+Communication Round 142
+trianing average loss: tensor(2.1254)
+valid
+valid mae: 2.2791284224298805, valid rmse:2.7452189710890074, valid acc:0.12805809144946817
+Communication Round 143
+trianing average loss: tensor(2.0382)
+valid
+valid mae: 2.279102001491377, valid rmse:2.7427452252168543, valid acc:0.12692431203182447
+Communication Round 144
+trianing average loss: tensor(2.0069)
+valid
+valid mae: 2.273467820441397, valid rmse:2.739652782483277, valid acc:0.12841854155334334
+Communication Round 145
+trianing average loss: tensor(1.9209)
+valid
+valid mae: 2.2712896301987566, valid rmse:2.7368073404335638, valid acc:0.12801221598170223
+Communication Round 146
+trianing average loss: tensor(2.0275)
+valid
+valid mae: 2.270778170552367, valid rmse:2.7337701590278867, valid acc:0.1269898484143472
+Communication Round 147
+trianing average loss: tensor(2.2395)
+valid
+valid mae: 2.2642469358272974, valid rmse:2.730536946162527, valid acc:0.128647918892173
+Communication Round 148
+trianing average loss: tensor(1.8614)
+valid
+valid mae: 2.2606200196869155, valid rmse:2.7274185404339826, valid acc:0.12867413344518208
+Communication Round 149
+trianing average loss: tensor(1.8263)
+valid
+valid mae: 2.261357585908617, valid rmse:2.725886047866452, valid acc:0.12832679061781146
+Communication Round 150
+trianing average loss: tensor(2.0863)
+valid
+valid mae: 2.2558814166759213, valid rmse:2.7226809241106404, valid acc:0.12993898562787132
+Communication Round 151
+trianing average loss: tensor(2.0697)
+valid
+valid mae: 2.251906043502038, valid rmse:2.719221300459297, valid acc:0.13007005839291683
+Communication Round 152
+trianing average loss: tensor(2.0693)
+valid
+valid mae: 2.24656667977261, valid rmse:2.7151817147464294, valid acc:0.13105310413075819
+Communication Round 153
+trianing average loss: tensor(2.1503)
+valid
+valid mae: 2.2447393044516324, valid rmse:2.7124736895941965, valid acc:0.1310203359394968
+Communication Round 154
+trianing average loss: tensor(2.1524)
+valid
+valid mae: 2.2347651781519677, valid rmse:2.7068282766124763, valid acc:0.13303230288294546
+Communication Round 155
+trianing average loss: tensor(1.8790)
+valid
+valid mae: 2.235827573231956, valid rmse:2.7050858704851004, valid acc:0.13240970724897927
+Communication Round 156
+trianing average loss: tensor(2.0416)
+valid
+valid mae: 2.2283964438538506, valid rmse:2.700767552956525, valid acc:0.1343692450864097
+Communication Round 157
+trianing average loss: tensor(2.0215)
+valid
+valid mae: 2.2252281584333096, valid rmse:2.6974700032034864, valid acc:0.13413986774758008
+Communication Round 158
+trianing average loss: tensor(2.1978)
+valid
+valid mae: 2.2197808143279243, valid rmse:2.6935902876617916, valid acc:0.13527364716522378
+Communication Round 159
+trianing average loss: tensor(2.2251)
+valid
+valid mae: 2.213426971202585, valid rmse:2.6896614019291705, valid acc:0.13593556462870363
+Communication Round 160
+trianing average loss: tensor(1.9876)
+valid
+valid mae: 2.209968542961201, valid rmse:2.6854479968884744, valid acc:0.1360011010112264
+Communication Round 161
+trianing average loss: tensor(1.9370)
+valid
+valid mae: 2.2038183586633684, valid rmse:2.682248590412927, valid acc:0.13857012720611847
+Communication Round 162
+trianing average loss: tensor(2.1254)
+valid
+valid mae: 2.1993270360824044, valid rmse:2.6788571828348537, valid acc:0.13912718645756192
+Communication Round 163
+trianing average loss: tensor(2.0127)
+valid
+valid mae: 2.1990121357371857, valid rmse:2.676182024541216, valid acc:0.13805894342244096
+Communication Round 164
+trianing average loss: tensor(1.8945)
+valid
+valid mae: 2.1939079039060725, valid rmse:2.672546529046437, valid acc:0.13919927647833694
+Communication Round 165
+trianing average loss: tensor(2.1964)
+valid
+valid mae: 2.191794863883624, valid rmse:2.66957352900666, valid acc:0.13915340101057103
+Communication Round 166
+trianing average loss: tensor(1.9270)
+valid
+valid mae: 2.1880183750037214, valid rmse:2.6672468202605133, valid acc:0.14021509040743968
+Communication Round 167
+trianing average loss: tensor(2.0571)
+valid
+valid mae: 2.1837125959447174, valid rmse:2.6639556654280256, valid acc:0.14030684134297156
+Communication Round 168
+trianing average loss: tensor(1.8927)
+valid
+valid mae: 2.1847328028671464, valid rmse:2.662928526740685, valid acc:0.14003158853637596
+Communication Round 169
+trianing average loss: tensor(2.2145)
+valid
+valid mae: 2.179610348915764, valid rmse:2.6589600336031722, valid acc:0.14094909789169457
+Communication Round 170
+trianing average loss: tensor(1.8874)
+valid
+valid mae: 2.1763838063983427, valid rmse:2.656308631861301, valid acc:0.14171587356721083
+Communication Round 171
+trianing average loss: tensor(1.9110)
+valid
+valid mae: 2.176891448973137, valid rmse:2.6545121016522453, valid acc:0.1403527168107375
+Communication Round 172
+trianing average loss: tensor(2.2497)
+valid
+valid mae: 2.166573181185942, valid rmse:2.6488468681471153, valid acc:0.1429414039203864
+Communication Round 173
+trianing average loss: tensor(1.9549)
+valid
+valid mae: 2.167982463069036, valid rmse:2.6471541984178764, valid acc:0.14140785256935387
+Communication Round 174
+trianing average loss: tensor(1.9506)
+valid
+valid mae: 2.15917178485966, valid rmse:2.643087605312334, valid acc:0.1439965396790028
+Communication Round 175
+trianing average loss: tensor(2.0987)
+valid
+valid mae: 2.158553822482663, valid rmse:2.640716302268997, valid acc:0.14271858021980902
+Communication Round 176
+trianing average loss: tensor(2.0815)
+valid
+valid mae: 2.1508314958870156, valid rmse:2.6374083284536565, valid acc:0.1453203746059625
+Communication Round 177
+trianing average loss: tensor(2.1208)
+valid
+valid mae: 2.1453052511329638, valid rmse:2.6342320285198575, valid acc:0.1466179949799131
+Communication Round 178
+trianing average loss: tensor(1.8296)
+valid
+valid mae: 2.1505133128301606, valid rmse:2.6340594232186842, valid acc:0.1435115704483344
+Communication Round 179
+trianing average loss: tensor(1.7627)
+valid
+valid mae: 2.152212314134767, valid rmse:2.6326312485179573, valid acc:0.14184039269400409
+Communication Round 180
+trianing average loss: tensor(1.8732)
+valid
+valid mae: 2.1465583358846794, valid rmse:2.6292748438817695, valid acc:0.14385891327570502
+Communication Round 181
+trianing average loss: tensor(1.9862)
+valid
+valid mae: 2.1351374419533267, valid rmse:2.624381911063621, valid acc:0.1482629581812343
+Communication Round 182
+trianing average loss: tensor(2.0682)
+valid
+valid mae: 2.131023143843978, valid rmse:2.621218958713819, valid acc:0.14920668208956203
+Communication Round 183
+trianing average loss: tensor(1.9378)
+valid
+valid mae: 2.127275971005832, valid rmse:2.6188842920532083, valid acc:0.1499996723180874
+Communication Round 184
+trianing average loss: tensor(1.8015)
+valid
+valid mae: 2.1241509229553253, valid rmse:2.6165112544617446, valid acc:0.15072712616409
+Communication Round 185
+trianing average loss: tensor(1.9264)
+valid
+valid mae: 2.1215159304411726, valid rmse:2.613831014036943, valid acc:0.15043221244273758
+Communication Round 186
+trianing average loss: tensor(1.8051)
+valid
+valid mae: 2.124111217304736, valid rmse:2.612267741894914, valid acc:0.14890521472995732
+Communication Round 187
+trianing average loss: tensor(1.9335)
+valid
+valid mae: 2.123119810418135, valid rmse:2.6099913958142325, valid acc:0.1489117683682096
+Communication Round 188
+trianing average loss: tensor(1.9390)
+valid
+valid mae: 2.1189107905358275, valid rmse:2.6070076667017914, valid acc:0.14963922221421222
+Communication Round 189
+trianing average loss: tensor(1.8166)
+valid
+valid mae: 2.114167727434702, valid rmse:2.6039614058985197, valid acc:0.15094994986466737
+Communication Round 190
+trianing average loss: tensor(1.8878)
+valid
+valid mae: 2.109473677627585, valid rmse:2.600824432749068, valid acc:0.15171017190193137
+Communication Round 191
+trianing average loss: tensor(1.9025)
+valid
+valid mae: 2.111154424047397, valid rmse:2.5993097709609825, valid acc:0.14962611493770767
+Communication Round 192
+trianing average loss: tensor(2.0967)
+valid
+valid mae: 2.1053264521153343, valid rmse:2.5949385898833977, valid acc:0.1515070091161108
+Communication Round 193
+trianing average loss: tensor(1.9256)
+valid
+valid mae: 2.1003202617721004, valid rmse:2.5920295895416623, valid acc:0.15349931514480264
+Communication Round 194
+trianing average loss: tensor(1.9754)
+valid
+valid mae: 2.1008323747912434, valid rmse:2.5900081226793144, valid acc:0.15128418541553343
+Communication Round 195
+trianing average loss: tensor(1.8896)
+valid
+valid mae: 2.096482255010712, valid rmse:2.586450581797573, valid acc:0.152319660259393
+Communication Round 196
+trianing average loss: tensor(1.7135)
+valid
+valid mae: 2.0985818848544, valid rmse:2.58532031501099, valid acc:0.15030769331594435
+Communication Round 197
+trianing average loss: tensor(1.8905)
+valid
+valid mae: 2.0893031218660467, valid rmse:2.582869227213851, valid acc:0.1544561463296349
+Communication Round 198
+trianing average loss: tensor(1.9843)
+valid
+valid mae: 2.0861149154867396, valid rmse:2.579755047200403, valid acc:0.15462654092419406
+Communication Round 199
+trianing average loss: tensor(1.7972)
+valid
+valid mae: 2.0840315566309684, valid rmse:2.5770330674564166, valid acc:0.15423987626730978
+Communication Round 200
+trianing average loss: tensor(1.8818)
+valid
+valid mae: 2.0928873772272505, valid rmse:2.5768649104011794, valid acc:0.1489117683682096
+final test mae: 2.0914611909668452, test rmse: 2.576392170017944, test acc:0.14972999187354183
+
